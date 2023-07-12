@@ -1,0 +1,13 @@
+.center {
+    margin: auto;
+    display: block;
+  }
+
+.background{
+    background: #006166;
+}
+
+iframe{
+    margin: auto;
+    display: block;
+}
